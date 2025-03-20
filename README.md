@@ -28,7 +28,7 @@ Los datos no son reales, sino que se van generando de manera aleatoria y enviand
 servidor de Apache Kafka. Todo el código para lanzar tanto el servidor Kafka como el
 generador de datos se encuentra en este repositorio de GitHub, el cuál también está
 documentado con instrucciones sobre su uso:
-[proyecto](https://github.com/MrRobert91/data-engineering-educational-project)
+[proyecto](https://github.com/Factoria-F5-dev/data-engineering-educational-project)
 Es **ABSOLUTAMENTE FUNDAMENTAL** que **NO** se acceda a leer el código que genera
 esos datos.
 Hacerlo supondría conocer los detalles de por qué los datos son cómo son y eso estaría
