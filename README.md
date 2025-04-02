@@ -112,12 +112,8 @@ Para la fecha de entrega, los equipos deberán presentar:
 
 Se considerarán los siguientes criterios:  
 
-✅ **TODO.**  
-✅ **TODO.**  
-✅ **TODO.**  
-✅ **TODO.**  
-✅ **TODO.**  
-✅ **TODO.**  
+✅ Procesar y almacenar datos de eventos en tiempo real
+ 
 
 Más detalles en: [roadmap-mad-ai-p4.coderf5.es](https://roadmap-mad-ai-p4.coderf5.es/)  
 
